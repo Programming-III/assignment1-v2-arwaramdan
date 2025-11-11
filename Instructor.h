@@ -11,7 +11,7 @@ private :
 public :
     void display ();
 
-
+Instructor();
 
 };
 
