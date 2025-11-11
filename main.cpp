@@ -50,7 +50,10 @@ void Course::displayCourseInfo() {
          cout << "the max number of student :"<< maxstudents;
          cout<< "students :"<<students<<endl;
          cout<<" current student :"<<currentstudent<<endl;
+ 
  }
+void Course :: addstudents(const Student&s){
+Student s = new students();
 
 
 
