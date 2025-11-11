@@ -13,7 +13,7 @@ private :
     Student* students;
     int currentstudent;
 public :
-    void (const Student&s);
+    void addstudents(const Student&s);
     void displayCourseInfo();
 
 
