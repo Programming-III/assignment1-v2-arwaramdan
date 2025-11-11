@@ -15,7 +15,7 @@ private :
 public :
     void addstudents(const Student&s);
     void displayCourseInfo();
-
+  Course();
 
 
 
