@@ -9,7 +9,8 @@ class Student :public Person {
     int yearlevel ;
     string major;
 public :
-    void display () const;
+    void display () ;
+Person();
 
 
 };
