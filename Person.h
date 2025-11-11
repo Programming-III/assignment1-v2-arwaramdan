@@ -10,7 +10,8 @@ private :
     string name ;
     int id ;
 public :
-  void display() const;
+  void display() ;
+Person();
 };
 
 
